@@ -32,17 +32,6 @@ Spotify-R/
 - JavaScript (puro)
 - JSON
 
-## 💡 Como Usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/Renanito69/Spotify-R.git
-```
-
-2. Abra o arquivo `index.html` no navegador.
-
-Não é necessário servidor nem dependências externas.
-
 ## 📌 Observações
 
 - Este projeto é apenas para fins de estudo e não consome dados reais da plataforma Spotify.
